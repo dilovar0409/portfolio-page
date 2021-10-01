@@ -1,25 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import { Suspense } from 'react'
+import './App.css'
+import BoxIcon from './Components/BoxIcon'
+import Header from './Components/Header'
+import NextBox from './Components/NextBox'
+import FirstPage from './Pages/FirstPage'
+import NextPage from './Pages/NextPage'
+import Page from './Pages/Page'
+import SecondPage from './Pages/SecondPage'
 
 function App() {
   return (
+    <Suspense fallback={<h1 style={{position:"fixed", top:"50%", right:"50%", left:0,bottom:0, backgroundColor:"red",fontSize:"100px"}}>loading</h1>}>
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header />
+      <NextBox />
+      <BoxIcon />
+      <Page />
+      <NextPage />
+      <SecondPage />
+      <FirstPage />
     </div>
-  );
+    </Suspense>
+  )
 }
 
-export default App;
+export default App
