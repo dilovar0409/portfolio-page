@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/git%20/static/css/main.75e80b79.chunk.css",
+    "main.js": "/git%20/static/js/main.8fa2810e.chunk.js",
+    "main.js.map": "/git%20/static/js/main.8fa2810e.chunk.js.map",
+    "runtime-main.js": "/git%20/static/js/runtime-main.2cf179d1.js",
+    "runtime-main.js.map": "/git%20/static/js/runtime-main.2cf179d1.js.map",
+    "static/js/2.ea68e65b.chunk.js": "/git%20/static/js/2.ea68e65b.chunk.js",
+    "static/js/2.ea68e65b.chunk.js.map": "/git%20/static/js/2.ea68e65b.chunk.js.map",
+    "static/js/3.4c95db69.chunk.js": "/git%20/static/js/3.4c95db69.chunk.js",
+    "static/js/3.4c95db69.chunk.js.map": "/git%20/static/js/3.4c95db69.chunk.js.map",
+    "index.html": "/git%20/index.html",
+    "static/css/main.75e80b79.chunk.css.map": "/git%20/static/css/main.75e80b79.chunk.css.map",
+    "static/js/2.ea68e65b.chunk.js.LICENSE.txt": "/git%20/static/js/2.ea68e65b.chunk.js.LICENSE.txt",
+    "static/media/bg-call.6750ca04.jpg": "/git%20/static/media/bg-call.6750ca04.jpg",
+    "static/media/bg-masthead.87655359.jpg": "/git%20/static/media/bg-masthead.87655359.jpg",
+    "static/media/facebook.db22d166.svg": "/git%20/static/media/facebook.db22d166.svg",
+    "static/media/like.3202d8c4.svg": "/git%20/static/media/like.3202d8c4.svg",
+    "static/media/map.e135ce12.jpg": "/git%20/static/media/map.e135ce12.jpg",
+    "static/media/moustache.a6f9ba8d.svg": "/git%20/static/media/moustache.a6f9ba8d.svg",
+    "static/media/pen.2d0736d8.svg": "/git%20/static/media/pen.2d0736d8.svg",
+    "static/media/portfolio-1.4dfbd964.jpg": "/git%20/static/media/portfolio-1.4dfbd964.jpg",
+    "static/media/portfolio-2.9a6e322e.jpg": "/git%20/static/media/portfolio-2.9a6e322e.jpg",
+    "static/media/portfolio-3.9b18d22b.jpg": "/git%20/static/media/portfolio-3.9b18d22b.jpg",
+    "static/media/portfolio-4.abd1cc9c.jpg": "/git%20/static/media/portfolio-4.abd1cc9c.jpg",
+    "static/media/smartphone.e50691af.svg": "/git%20/static/media/smartphone.e50691af.svg",
+    "static/media/telegram.86fe8f60.svg": "/git%20/static/media/telegram.86fe8f60.svg",
+    "static/media/twitter.ecda1e03.svg": "/git%20/static/media/twitter.ecda1e03.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cf179d1.js",
+    "static/js/2.ea68e65b.chunk.js",
+    "static/css/main.75e80b79.chunk.css",
+    "static/js/main.8fa2810e.chunk.js"
+  ]
+}
